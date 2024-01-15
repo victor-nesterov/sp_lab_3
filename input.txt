@@ -1,0 +1,14 @@
+#define value 5
+
+int main()
+{
+    int a = value;
+    int b = a + 3;
+    if (b>0x15 +0xQA && a != 5 - 0x2E9)
+    {
+        cout << b; // a+b; 0x277 print value of b 
+        b = a +++ value;
+        return 1s;
+    }
+    return 0;
+}
